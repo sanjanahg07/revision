@@ -1,4 +1,7 @@
 #include<stdio.h>
- push()
- pop()
- display()
+main
+{
+ push();
+ pop();
+ display();
+}
